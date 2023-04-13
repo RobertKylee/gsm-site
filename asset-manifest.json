@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/gsm-site/static/css/main.9493399a.css",
+    "main.js": "/gsm-site/static/js/main.33a0f037.js",
+    "static/media/poza1.PNG": "/gsm-site/static/media/poza1.1522fb17156ffe03a66c.PNG",
+    "static/media/poza2.jpg": "/gsm-site/static/media/poza2.01345a0e4f07bc42b551.jpg",
+    "static/media/poza3.jpg": "/gsm-site/static/media/poza3.ce0e43a9ccaef1e0332e.jpg",
+    "index.html": "/gsm-site/index.html",
+    "main.9493399a.css.map": "/gsm-site/static/css/main.9493399a.css.map",
+    "main.33a0f037.js.map": "/gsm-site/static/js/main.33a0f037.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9493399a.css",
+    "static/js/main.33a0f037.js"
+  ]
+}
